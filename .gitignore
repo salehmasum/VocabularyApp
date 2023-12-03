@@ -1,0 +1,7 @@
+VocabularyTrainer.xcodeproj/xcshareddata/
+VocabularyTrainer.xcodeproj/project.xcworkspace/xcuserdata/
+.DS_Store
+UserInterfaceState.xcuserstate
+*.xcbkptlist
+## User settings
+xcuserdata/
