@@ -6,9 +6,7 @@ Boost your language skills with our Flashcard Vocabulary App!  Effortlessly lear
 
 
 
-<img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/flippy1.png width=200><img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/two.png width=200><img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/three.png width=200><img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/four.png width=200><img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/five.png width=200><img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/six.png width=200>
-
-![alt text](https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/flippy1.png?raw=true)
+<img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy1.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy2.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy4.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy5.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy6.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy7.png width=200>
 
 
 
