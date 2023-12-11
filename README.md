@@ -4,13 +4,17 @@ This is the original repo link(https://github.com/misteu/VocabularyTraining). I 
 
 Boost your language skills with our Flashcard Vocabulary App!  Effortlessly learn & remember words across diverse languages. Transform your vocab in a flash! Dive in now!
 
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/6c9a15f8-d5ff-41fc-b0ad-c49de720e1a1 width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/dba38147-b077-4566-9183-871ad4ef5488 width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/defdda41-c8d9-494c-9458-d8138a61e24c width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/630e11d9-1b56-45bb-9e89-b9b97dbb9064 width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/f64369d6-f6c6-468f-8e4e-01eeca8905a8 width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/a3484ca8-0e17-4cbf-9ec1-e2514e2a7ed0 width=200>
 
-![one](https://github.com/salehmasum/VocabularyApp/assets/3840939/6c9a15f8-d5ff-41fc-b0ad-c49de720e1a1)
-
-
-
-<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/6c9a15f8-d5ff-41fc-b0ad-c49de720e1a1 width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy2.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy4.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy5.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy6.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy7.png width=200>
-
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/3eabb0f6-d789-4600-80b3-4a028d8268de width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/21042e52-1848-480d-825a-c838b7904a8f width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/7d699a81-2ac1-48a2-9d47-214a43ef35a1 width=200>
+<img src=https://github.com/salehmasum/VocabularyApp/assets/3840939/d34f9775-cb7d-489f-820e-c28903aa3f93 width=200>
 
 
 ## Description
