@@ -5,6 +5,9 @@ This is the original repo link(https://github.com/misteu/VocabularyTraining). I 
 Boost your language skills with our Flashcard Vocabulary App!  Effortlessly learn & remember words across diverse languages. Transform your vocab in a flash! Dive in now!
 
 
+![one](https://github.com/salehmasum/VocabularyApp/assets/3840939/6c9a15f8-d5ff-41fc-b0ad-c49de720e1a1)
+
+
 
 <img src=https://github.com/salehmasum/VocabularyApp/blob/master/screenshots/one.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy2.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy4.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy5.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy6.png width=200><img src=https://github.com/misteu/VocabularyTraining/blob/master/screenshots/flippy7.png width=200>
 
