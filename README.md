@@ -1,6 +1,6 @@
 # VocabJourney
 
-Took inspiration from(https://github.com/misteu/VocabularyTraining). I rebuild the UI and applied Dark mode. 
+Took inspiration from(https://github.com/misteu/VocabularyTraining).
 
 Boost your language skills with our Flashcard Vocabulary App!  Effortlessly learn & remember words across diverse languages. Transform your vocab in a flash! Dive in now!
 
