@@ -1,6 +1,6 @@
 # VocabJourney
 
-This is the original repo link(https://github.com/misteu/VocabularyTraining). I just modified the UI and applied Dark mode. 
+This is the original repo link(https://github.com/misteu/VocabularyTraining). I rebuild the UI and applied Dark mode. 
 
 Boost your language skills with our Flashcard Vocabulary App!  Effortlessly learn & remember words across diverse languages. Transform your vocab in a flash! Dive in now!
 
